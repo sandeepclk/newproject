@@ -1,7 +1,6 @@
-#include <stdio.h>
-main()
+#include<stdio.h>
+void main()
 {
-	add3();
 	big3();
 	fact();
 }
